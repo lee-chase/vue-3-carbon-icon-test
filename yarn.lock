@@ -846,6 +846,18 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
+"@carbon/icon-helpers@^10.11.0":
+  version "10.11.0"
+  resolved "https://registry.yarnpkg.com/@carbon/icon-helpers/-/icon-helpers-10.11.0.tgz#e5e4dc8f849725858ae222017d5460dc4acddc2c"
+  integrity sha512-dnK8LB95M0OcUVQ2n3NOV2hwW6ku+5+N+SRvwLihtXeRPkpVv7dy9GojBC5aSd3+U3MJVOjVu8614S38DZk0pw==
+
+"@carbon/icons-vue@^10.23.0":
+  version "10.23.0"
+  resolved "https://registry.yarnpkg.com/@carbon/icons-vue/-/icons-vue-10.23.0.tgz#9d7853664327fd32d626d08aebfbf50e5bda8d82"
+  integrity sha512-TutzmclVKp77X5DhJOX95XlB8Fk0O28iY+lzLqtZgP0kU2NYOEhl3A3ULoAxndrEra63zPQUTTY6JsYs6L84EA==
+  dependencies:
+    "@carbon/icon-helpers" "^10.11.0"
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
