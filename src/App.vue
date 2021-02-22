@@ -20,13 +20,13 @@
 
 <script>
 import HelloWorld from "./components/HelloWorld.vue";
-import { Bee32 } from "@carbon/icons-vue";
+// import { Bee32 } from "@carbon/icons-vue";
 
 export default {
   name: "App",
   components: {
-    HelloWorld,
-    Bee32
+    HelloWorld
+    // Bee32
   },
   data() {
     return {
